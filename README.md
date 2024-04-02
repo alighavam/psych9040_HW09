@@ -5,5 +5,5 @@ Cosine Similarity is defined as the cosine of the angle between two N dimensiona
 So, for any given vectors A and B, the cosine similarity is defined as:
 
 $$
-    cos(\Theta) = \frac{A.B}{\norm{A} \norm{B}}
+    cos(\theta) = \frac{A.B}{\| A\|  \|B\|}
 $$
